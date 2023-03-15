@@ -1,0 +1,41 @@
+                                               
+                          Difference between Document and Windows Objects
+
+           The windows and document objects are described in the 
+       DOM Tree(Document Object Model Tree).Window and objects have  
+       different properties , methods, and functionality .We can access a 
+       document object either using windows. Document  property or using 
+       document object directly as window is global object. 
+       Ex: windows have open and closed Button. But document don’t have that buttons.
+ 
+
+
+                                       Document Object:
+      
+
+
+•	The document Object is inside of the windows object.
+      •	It is like a subtitle. It is a sub menu of the windows browser.
+      •	It have  image, text, numbers and all the objects .
+      •	Document have include html pages. Like HTML Tags Head, Body, Title
+      •	Document objects have links and url…
+      •	Document object have elements and tree structure.
+      •	Document object have many property elements.
+      •	Documents are stored in many objects. It is called (DOM Tree).Document Object Mo
+                    
+
+                         
+
+                                        Windows Object:
+    
+
+     •	Windows is the global object.
+     •	The windows is the topmost loaded into the browser.
+     •	It is like a main tab of the browser.	
+     •	Example: Youtube
+     •	Left Side : Front Button , Back Button and Refresh Button.
+     •	Right Side: Install youtube click Button, Share this Page Click Button and Bookmark this click Button.
+     •	It has open click button , close button , Minimize and maximize button.        
+     •	Javascript code are included in windows object.      
+         
+	
